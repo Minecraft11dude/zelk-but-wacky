@@ -38,6 +38,7 @@
   --background-2: #1e2529;
   --background-accent: #1e2529;
   --border-color: #273034;
+  --text-normal-dark: #141414;
 }
 /*-------------LIGHT MODE------------*/
 .theme-light {
@@ -71,7 +72,7 @@
   --text-muted: #6d8692;
   --text-link: #edf8fe;
   --interactive-selected: var(--background-primary);
-  --interactive-active: var(--text-normal);
+  --interactive-active: var(--text-normal-dark);
   --interactive-normal: var(--text-normal);
   --interactive-muted: var(--button-background-active);
   --channels-default: var(--text-muted);
